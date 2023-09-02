@@ -3,7 +3,7 @@
 In this repository, you can find two .md (french.md and english.md).
 They are a summary of my API's TechTalk in both languages.
 
-![API gif](assets/api.gif)
+<div align="center"> <img src="assets/api.gif"> </div>
 
 ## Sources
 
