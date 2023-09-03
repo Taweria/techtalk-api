@@ -14,3 +14,5 @@ https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces
 https://aws.amazon.com/fr/what-is/api/
 
 https://randomuser.me/
+
+https://publicapi.dev/
