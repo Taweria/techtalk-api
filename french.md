@@ -9,7 +9,7 @@ Une API (application programming interface ou  "interface de programmation d’a
 Il faut considérer l’API comme une interface d’échange de données entre plusieurs systèmes: le client envoie une requête de données au serveur et le serveur va extraire et collecter des données issues des différentes sources comme les applications, web services, bases de données etc…
 Tout cela sans connaitre les détails de leur mise en oeuvre. <br> Elles vont simplifier le développement d'applications et ainsi vous gagnerez du temps et de l'argent.
 
-![Fonctionnement API](assets/fonc-api.png)
+![Fonctionnement API](assets/api-fr.png)
 
 
 ## Différents types d'API
