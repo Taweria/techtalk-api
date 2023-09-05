@@ -2,7 +2,7 @@
 
 ## What is an API?
 
-An API (application programming interface) is a software interface that "connects" a software or service to another in order to exchange data and functionalities. <br> They can be free or paid.
+An API (application programming interface) is a software interface that "connects" a software or service to another in order to exchange data and functionalities. <br> They can be used for free or you can be charged for.
 
 ## How it works
 
